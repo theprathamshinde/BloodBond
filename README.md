@@ -38,7 +38,7 @@ BloodBond is a full-stack web application designed for seamless communication be
 - **SQL**: For querying and managing data within MySQL.
 
 
-output:
+## output:
 
 ![Screenshot (1)](https://github.com/user-attachments/assets/6fda594d-f60b-48b2-9a29-85be7b1b404f)
 
